@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "discussion-borad",
+    "libraryId": "c5c352a4-c861-4c53-9c34-4152f48858c6",
+    "environment": "spo"
+  }
+}

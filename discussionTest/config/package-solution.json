@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "discussion-borad-client-side-solution",
+    "id": "c5c352a4-c861-4c53-9c34-4152f48858c6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/discussion-borad.sppkg"
+  }
+}
